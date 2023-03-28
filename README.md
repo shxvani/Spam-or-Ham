@@ -7,7 +7,7 @@ and protect themselves from malicious attacks.
 
 The dataset used for this project consists of Email messages labeled as either spam or ham. 
 The data will be split into training and testing sets to evaluate the performance of the model.  
-SMS Spam Collection Dataset: https://www.kaggle.com/datasets/nitishabharathi/email-spam-dataset
+Email Spam Collection Dataset: https://www.kaggle.com/datasets/nitishabharathi/email-spam-dataset
 
 ## Prerequisites
 
