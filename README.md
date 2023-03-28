@@ -1,5 +1,5 @@
 # Spam-or-Ham
-This project aims to develop a machine learning model to automatically classify SMS messages as either spam or ham. 
+This project aims to develop a machine learning model to automatically classify Email messages as either spam or ham. 
 The goal is to enhance the security and privacy of users by providing them with a solution to identify spam messages 
 and protect themselves from malicious attacks.
 
